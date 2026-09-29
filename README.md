@@ -4,4 +4,4 @@ It involves the aggregation and analysis of Perceived Causal Networks (PECAN) ma
 
 Feel free to have a look around to see whether it may be of use to you! If this code helped you perform your own analyses, please consider citing the related zenodo page (where you can also find the related dataset).
 
-Note that these concern the original analyses codes, and thus "FMG-12693 Clinician MDD PECAN_June 6 2025_02.57.xlsx" in the code can be replaced by the anonymised dataset "Qualtrics_SeeingShadesOfBlue_Anonymised"
+Note that these concern the original analyses codes, and thus "FMG-12693 Clinician MDD PECAN_June 6 2025_02.57" in the code can be replaced by the anonymised dataset "Qualtrics_SeeingShadesOfBlue_Anonymised"
