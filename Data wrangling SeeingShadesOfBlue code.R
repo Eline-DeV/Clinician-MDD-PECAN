@@ -8,7 +8,7 @@
 # E.g. PP1_nodes_full ...
 # E.g. PP1_nodes ...
 # Check working directory, so file can be drawn from there
-setwd() ### Adjut based on where file is drawn from
+setwd() ### Adjust based on where file is drawn from
 ###################################################
 ###################################################
 library(jsonlite)
